@@ -1,0 +1,3 @@
+C:/Users/EVGENY/Desktop/Lab1v2/out/build/x64-Debug/CMakeFiles/Lab1v2.dir
+C:/Users/EVGENY/Desktop/Lab1v2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/EVGENY/Desktop/Lab1v2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
